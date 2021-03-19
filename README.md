@@ -1,5 +1,7 @@
 # vue-weather
-
+```
+Weather_App based on Vue
+```
 ## Project setup
 ```
 npm install
